@@ -15,8 +15,7 @@ public class MainCard {
 	    
 	    String[] ranks = {null, "Ace", "2", "3", "4", "5", "6",
 	            "7", "8", "9", "10", "Jack", "Queen", "King"};
-	  
-	   
+	  	   
 		
 	Cards card = new Cards(11, 1);
     System.out.println(card);
